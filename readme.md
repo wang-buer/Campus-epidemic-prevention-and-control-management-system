@@ -77,5 +77,6 @@
 
 ![老师-审核记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935692.jpg)
 
-
+## 5 功能演示视频
+[点击观看项目演示视频](https://mp.weixin.qq.com/s/JxDije0oLPPriWcJB658Tg)
 
