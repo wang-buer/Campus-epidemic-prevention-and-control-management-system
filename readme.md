@@ -3,7 +3,8 @@
 ## 1、项目介绍
 
 基于springboot的校园疫情防控管理系统拥有两种角色，即老师和学生，功能如下：
-[点击观看项目演示视频，位于最下方](https://mp.weixin.qq.com/s/JxDije0oLPPriWcJB658Tg)
+
+[点击查看其他疫情防控管理系统介绍](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544075516472164353&scene=21#wechat_redirect)
 
 
 #### 1.1学生
