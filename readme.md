@@ -1,18 +1,10 @@
-# 校园疫情防控管理系统
-## 获取方式
-
-扫描下方，回复关键词  ：**疫情** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于springboot的校园疫情防控管理系统5
 
 ## 1、项目介绍
 
 基于springboot的校园疫情防控管理系统拥有两种角色，即老师和学生，功能如下：
 
-[点击查看其他疫情防控管理系统介绍](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544075516472164353&scene=21#wechat_redirect)
-
-
-#### 1.1学生
+####　1.1学生
 
 * 登录
 * 完善个人信息(头像及其他)
@@ -38,7 +30,7 @@
 
 ## 2、项目技术
 
-后端框架：springboot、Mybatis
+后端框架：springboot、mybatisplus
 
 前端技术：VUE
 
@@ -55,36 +47,38 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251934762.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202209251934762.jpg)
 
 ### 4.2 学生模块
 
-![学生-通知信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935915.jpg)
+![学生-通知信息](https://www.codeshop.fun/Typora-Images/202209251935915.jpg)
 
-![学生-健康信息填报](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935583.jpg)
+![学生-健康信息填报](https://www.codeshop.fun/Typora-Images/202209251935583.jpg)
 
-![学生-历史健康记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935184.jpg)
+![学生-历史健康记录](https://www.codeshop.fun/Typora-Images/202209251935184.jpg)
 
-![学生-请假申请](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935889.jpg)
+![学生-请假申请](https://www.codeshop.fun/Typora-Images/202209251935889.jpg)
 
-![学生-请假记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935032.jpg)
+![学生-请假记录](https://www.codeshop.fun/Typora-Images/202209251935032.jpg)
 
-![学生-数据统计查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935366.jpg)
+![学生-数据统计查看](https://www.codeshop.fun/Typora-Images/202209251935366.jpg)
 
 ### 4.3老师 模块
 
-![老师-发布通知](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935094.jpg)
+![老师-发布通知](https://www.codeshop.fun/Typora-Images/202209251935094.jpg)
 
-![老师-学生信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935234.jpg)
+![老师-学生信息管理](https://www.codeshop.fun/Typora-Images/202209251935234.jpg)
 
-![老师-健康信息记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935223.jpg)
+![老师-健康信息记录](https://www.codeshop.fun/Typora-Images/202209251935223.jpg)
 
-![老师-每日提交进度查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935450.jpg)
+![老师-每日提交进度查看](https://www.codeshop.fun/Typora-Images/202209251935450.jpg)
 
-![老师-请假审核](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935689.jpg)
+![老师-请假审核](https://www.codeshop.fun/Typora-Images/202209251935689.jpg)
 
-![老师-审核记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935692.jpg)
+![老师-审核记录](https://www.codeshop.fun/Typora-Images/202209251935692.jpg)
 
-## 5 功能演示视频
-[点击观看项目演示视频，位于最下方](https://mp.weixin.qq.com/s/JxDije0oLPPriWcJB658Tg)
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**疫情**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
